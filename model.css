@@ -8,7 +8,7 @@ body{
  }
  
 .img-container{
-   background-image: url(https://modelappraisal.github.io/waterpicture.jpg)
+   background-image: url(https://modelappraisal.github.io/waterpicture.jpg);
    height: 70%;
    background-position: center;
    background-repeat: no-repeat;
