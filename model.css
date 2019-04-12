@@ -7,7 +7,7 @@ body{
   width: 100%;
  }
 
-.img-container{ background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("https://modelappraisal.github.io/waterpicture.jpg");
+.img-container{ background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("waterpicture.jpg");
  height: 70%;
  background-position: center;
  background-repeat: no-repeat;
