@@ -22,8 +22,8 @@ body{
   border-bottom: 1px solid transparent;
   2-index: 999;
   top: 0;
-  height: 62 px;
-  width: 100%
+  height: 62px;
+  width: 100%;
   padding-left: 15px;
   box-sizing: inherit;
 }
@@ -44,7 +44,7 @@ body{
   text-alight: center;
   padding: 14px 16px;
   text-decoration: none;
-  fot-size: 17px;
+  font-size: 17px;
   float: left;
   height: 30px;
 }
@@ -57,7 +57,7 @@ body{
 }
 
 .topnav a {
-  float: right;
+  float: left;
   text-transform: uppercase;
   position: relative;
   margin-left: 3em;
@@ -65,7 +65,7 @@ body{
   letter-spacing: .5px;
   padding: 1em .2em;
   font-size: 12px;
-  text-decoation: none;
+  text-decoration: none;
   background-color: transparent;
   list-style-type: none;
 }
