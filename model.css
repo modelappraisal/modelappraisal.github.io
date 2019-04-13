@@ -22,7 +22,14 @@ body{
   width: 100%;
 }
 
+.top-email a {
+  float: left;
+  color: white;
+  fot-size: 17px;
+}
+
 .topnav a {
+  float: right;
   color: white;
   text-align: center;
   padding: 14px 16px;
