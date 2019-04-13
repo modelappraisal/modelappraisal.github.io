@@ -105,27 +105,3 @@ a{
   transition: background-color 0.3s ease-in, color 0.3s ease-in;
 }
 
-@media only screen and (max-width: 920px){
-  .inner-container{
-    margin-top: 50px;
-    }
-  .topnav a {
-    float: right;
-  }
-  }
-  
-@media only screen and (max-width: 540px){
-    .inner-container{
-      margin-top: 75px;
-     }
-    .topnav a {
-    float: right;
-  }
-   }
-  h1{
-    font-size: 1.4em;
-  }
-  h2{
-    font-size: 7em;
-   }
-}
