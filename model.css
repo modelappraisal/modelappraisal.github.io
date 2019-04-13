@@ -20,6 +20,7 @@ body{
   position: absolute;
   margin: 10px;
   width: 100%;
+  height: 90px;
 }
 
 .topnav a {
@@ -28,6 +29,7 @@ body{
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  float: right;
 }
 
 .topnav a:hover {
