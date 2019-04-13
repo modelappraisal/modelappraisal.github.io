@@ -16,25 +16,18 @@ body{
  position: relative;
 }
 
-.top-email a {
-  float: left;
-  color: white;
-  fot-size: 10px;
+.top-container {
   position: absolute;
   margin: 10px;
-  width: 50%;
+  width: 100%;
 }
 
 .topnav a {
-  position: absolute;
-  margin: 10px;
-  float: right;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  width: 50%;
 }
 
 .topnav a:hover {
