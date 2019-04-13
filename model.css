@@ -23,6 +23,16 @@ body{
   height: 30px;
 }
 
+.top-email a {
+  color: white;
+  text-alight: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  fot-size: 17px;
+  float: left;
+  height: 30px;
+}
+
 .topnav a {
   color: white;
   text-align: center;
