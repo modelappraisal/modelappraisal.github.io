@@ -6,9 +6,19 @@
 header img {
     height: 80px;
 }
+
+header {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+}
  
 body{
   width: 100%;
+  margin-top: 80px;
  }
   
 .img-container{ 
