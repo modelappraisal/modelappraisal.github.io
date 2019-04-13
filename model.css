@@ -19,7 +19,7 @@ body{
 .top-container {
   position: absolute;
   margin: 10px;
-  width: auto;
+  width: 100%;
 }
 
 .topnav a {
