@@ -95,12 +95,18 @@ a{
   .inner-container{
     margin-top: 100px;
     }
+  .topnav a {
+    float: right;
+  }
   }
   
 @media only screen and (max-width: 540px){
     .inner-container{
       margin-top: 150px;
      }
+    .topnav a {
+    float: right;
+  }
    }
   h1{
     font-size: 1.4em;
