@@ -31,10 +31,10 @@ body{
 }
 
 hr {
-  width: 35%;
+  width: 40;
   margin-left: auto;
   margin-right: auto;
-  height: 5x;
+  height: 3px;
   background-color:white;
   opcaity: 0.75;
 }
