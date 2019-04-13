@@ -7,13 +7,24 @@ body{
   width: 100%;
  }
   
-.img-container{ 
+.img-container { 
  background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("waterpicture1.jpg");
  height: 70%;
  background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
  position: relative;
+}
+
+.site-header {
+  position: absolute;
+  background-color: transparent;
+  border-bottom: 1px solid transparent;
+  2-index: 999;
+  top: 0;
+  height: 62 px;
+  width: 100%
+  padding-left: 15px;
 }
 
 .top-container {
