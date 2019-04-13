@@ -25,6 +25,7 @@ body{
   height: 62 px;
   width: 100%
   padding-left: 15px;
+  box-sizing: inherit;
 }
 
 .top-container {
