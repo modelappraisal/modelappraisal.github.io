@@ -157,7 +157,8 @@ p {
 
 .flowertext {
   position: absolute;
-  right: 500px;
+  right: 50px;
+  top: 70px;
   width: 400px;
   height: auto;
   background-color: grey;
