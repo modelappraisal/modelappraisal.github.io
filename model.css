@@ -152,7 +152,7 @@ p {
 
 .image {
   border: 1px solid #ddd;
-  border-radius: 10px;
+  border-radius: 20px;
   padding: 5px;
   width: 600px;
   height: 400px;
@@ -163,7 +163,7 @@ p {
   position: absolute;
   width: 400px;
   height: auto;
-  margin-top: -150px;
+  margin-top: -300px;
   margin-left: 500px;
   background-color: grey;
   z-index: 2;
