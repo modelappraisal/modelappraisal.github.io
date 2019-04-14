@@ -18,7 +18,7 @@ body{
 }
 
 .site-header {
-  position: fixed;
+  position: absolute;
   background-color: transparent;
   border-bottom: 1px solid transparent;
   2-index: 999;
