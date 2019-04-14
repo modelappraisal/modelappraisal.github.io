@@ -192,7 +192,7 @@ h4 {
 .btn {
   display: inline-block;
   width: 200px;
-  margin-left: 75px;
+  margin-left: 85px;
   font-weight: bold;
   padding: 10px;
   color: #fff;
@@ -206,6 +206,6 @@ h4 {
 
 .btn:hover, btn:active {
   background-color: #fff;
-  color: #000;
+  color: #abb6c5;
   transition: background-color 0.3s ease-in, color 0.3s ease-in;
 }
