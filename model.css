@@ -90,6 +90,7 @@ body{
  h1{
   font-size: 1.4em;
   font-family: "Open+Sans+Condensed:300", sans-serif;
+  text-transform: uppercase
 }
 
 hr {
