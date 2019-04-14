@@ -164,7 +164,7 @@ p {
   align: center;
   width: 400px;
   height: auto;
-  margin-top: -300px;
+  margin-top: -325px;
   margin-left: 500px;
   background-color: #abb6c5;
   border: 1px solid #ddd;
@@ -193,6 +193,7 @@ h4 {
   display: inline-block;
   width: 200px;
   margin-left: 85px;
+  margin-bottom: 10px;
   font-weight: bold;
   padding: 10px;
   color: #fff;
