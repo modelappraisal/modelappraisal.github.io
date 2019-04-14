@@ -159,6 +159,7 @@ p {
   position: absolute;
   width: 400px;
   height: auto;
+  margin-top: 150px;
   background-color: grey;
   z-index: 2;
 }
