@@ -129,7 +129,7 @@ h3 {
   margin-top: 80px;
   margin-bottom: 0px;
   padding: 0px 0px 0px 0px;
-  border: 1px;
+  height: auto;
 }
 
 p {
@@ -139,5 +139,4 @@ p {
   margin-right: 33%;
   font-family: sans-serif;
   padding: 0px 0px 0px 0px;
-  border: 1px;
 }
