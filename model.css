@@ -154,3 +154,12 @@ p {
   height: 400px;
   z-index: 1;
 }
+
+.flowertext {
+  position: absolute;
+  right: 500px;
+  width: 400px;
+  height: auto;
+  background-color: grey;
+  z-index: 2;
+}
