@@ -47,6 +47,10 @@ body{
   float: left;
 }
 
+.top-email a:hover {
+  opacity: 0.5;
+}
+
 .topnav {
   float: right;
   display: block;
