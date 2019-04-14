@@ -43,7 +43,7 @@ body{
   text-align: top;
   text-decoration: none;
   font-size: 12px;
-  font-style: bold;
+  font-weight: bold;
   float: left;
 }
 
@@ -64,7 +64,7 @@ body{
   letter-spacing: .5px;
   padding: 1em .2em;
   font-size: 12px;
-  font-style: bold;
+  font-weight: bold;
   text-decoration: none;
   background-color: transparent;
   list-style-type: none;
