@@ -140,3 +140,8 @@ p {
   font-family: sans-serif;
   padding: 0px 0px 0px 0px;
 }
+
+.image {
+  position: fixed;
+  margin-left: 10%;
+}
