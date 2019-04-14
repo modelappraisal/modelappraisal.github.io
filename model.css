@@ -38,6 +38,7 @@ body{
   height: 30px;
   float: left;
   box-sizing: inherit;
+  position: absolute;
 }
 
 .top-email a {
@@ -45,7 +46,7 @@ body{
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 10px;
+  font-size: 12px;
   float: left;
   height: 30px;
 }
