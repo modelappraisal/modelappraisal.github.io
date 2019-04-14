@@ -224,3 +224,11 @@ h4 {
   background-color: black;
   opacity: 0.5;
 }
+
+.bottom-bar {
+  position: relative;
+  height: auto;
+  padding: 10px;
+  text-align: center;
+  font-family: sans-serif;
+}
