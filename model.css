@@ -218,11 +218,15 @@ h4 {
   position: absolute;
   height: auto;
   width: 90%;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 5%;
+  margin-right: 5%;
   height: .5px;
   background-color: black;
   opacity: 0.5;
+}
+
+.footer {
+  height: auto;
 }
 
 .bottom-bar {
