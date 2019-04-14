@@ -195,6 +195,7 @@ h4 {
   font-weight: bold;
   padding: 10px;
   color: #ddd;
+  border: 4px solid #ddd;
   text-align: center;
   outline: none;
   text-decoration: none;
