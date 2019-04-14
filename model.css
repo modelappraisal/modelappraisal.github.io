@@ -135,6 +135,7 @@ h3 {
 p {
   text-align: center;
   margin-top: 0px;
+  margin-botton: 0px;
   margin-left: 33%;
   margin-right: 33%;
   font-family: sans-serif;
@@ -144,8 +145,10 @@ p {
 .image {
   position: relative;
   margin-left: 10%;
+  margin-top: 100px;
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 150px;
+  width: 600px;
+  height: 400px;
 }
