@@ -37,8 +37,8 @@ body{
 }
 
 .top-email a {
-  color: black;
-  text-align: center;
+  color: #fff;
+  text-align: top;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 12px;
