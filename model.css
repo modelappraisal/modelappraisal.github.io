@@ -166,6 +166,9 @@ p {
   margin-top: -300px;
   margin-left: 500px;
   background-color: grey;
+  opacity: 0.25;
+  border: 1px solid #ddd;
+  padding: 5px;
   z-index: 2;
 }
 
@@ -179,4 +182,9 @@ h4 {
   padding: 0px 0px 0px 0px;
   height: auto;
 }
-  
+
+.flower-text {
+  font-family: sans-serif;
+  text-align: center;
+  height: auto;
+}
