@@ -34,12 +34,12 @@ body{
   display: block;
   float: left;
   box-sizing: inherit;
+  position: absolute;
 }
 
 .top-email a {
   color: #fff;
   text-align: top;
-  padding: 14px 16px;
   text-decoration: none;
   font-size: 12px;
   float: left;
