@@ -292,16 +292,16 @@ h4 {
 }
 
 .westleb {
-  position: absolute;
+  position: relative;
   float: left;
 }
 
 .manchester {
-  position: absolute;
+  position: relative;
   text-align: center;
 }
 
 .keene {
-  position: absolute;
+  position: relative;
   float: right;
 }
