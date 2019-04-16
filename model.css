@@ -116,6 +116,8 @@ h2 {
 }
 
 .hr3 {
+  position: relative;
+  display: block;
   width: 25%;
   margin-left: auto;
   margin-right: auto;
