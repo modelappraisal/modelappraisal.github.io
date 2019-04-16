@@ -290,3 +290,15 @@ h4 {
 .bottomnav a:hover {
   opacity: 0.5;
 }
+
+.westleb {
+  float: left;
+}
+
+.manchester {
+  text-align: center;
+}
+
+.keene {
+  float: right;
+}
