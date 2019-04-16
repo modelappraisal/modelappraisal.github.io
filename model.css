@@ -93,8 +93,7 @@ body{
 
  h1 {
    font-size: 1.4em;
-   text-transform: uppercase;
-   font-family: "Oswald", sans-serif;
+   font-family: "Merriweather", serif;
    text-align: center;
 }
 
@@ -109,10 +108,11 @@ body{
 }
 
 h2 {
-  font-family: 'merriweather', serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 7em;
   text-align: center;
   font-weight: 200;
+  text-transform: uppercase;
 }
 
 .hr3 {
