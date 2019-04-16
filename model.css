@@ -276,7 +276,7 @@ h4 {
   text-transform: uppercase;
   position: relative;
   display: inline-block;
-  color: #000000;
+  text-color: #000000;
   letter-spacing: .5px;
   padding: 1em .2em;
   font-size: 12px;
