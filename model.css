@@ -266,10 +266,11 @@ h4 {
 }
 
 .bottomnav {
-  float: right;
-  display: block;
+  fposition: relative;
+  display: inline-block;
   font-size: .7em;
   box-sizing: inherit;
+  text-align: center;
 }
 
 .bottomnav a {
