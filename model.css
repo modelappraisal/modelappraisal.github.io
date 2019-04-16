@@ -261,3 +261,28 @@ h4 {
   font-size: 20px;
   opacity: .33;
 }
+
+.bottomnav {
+  float: right;
+  display: block;
+  font-size: .7em;
+  box-sizing: inherit;
+}
+
+.bottomnav a {
+  float: left;
+  text-transform: uppercase;
+  position: relative;
+  margin-right: 3em;
+  letter-spacing: .5px;
+  padding: 1em .2em;
+  font-size: 12px;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: transparent;
+  list-style-type: none;
+}
+
+.bottomnav a:hover {
+  opacity: 0.5;
+}
