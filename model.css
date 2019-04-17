@@ -293,6 +293,7 @@ h4 {
 
 .bottom-contact {
   width: 100%;
+  margin-bottom: 100px;
 }
 
 .bconwestleb {
@@ -312,6 +313,5 @@ h4 {
   float: right;
   width: 33.33%;
   padding: 10px;
-  display: block;
 }
 
