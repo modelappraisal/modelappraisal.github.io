@@ -228,7 +228,7 @@ h4 {
 }
 
 .hr2 {
-  position: absolute;
+  position: relative;
   height: auto;
   width: 90%;
   margin-left: 5%;
