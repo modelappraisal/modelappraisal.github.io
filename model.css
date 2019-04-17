@@ -291,20 +291,20 @@ h4 {
   opacity: 0.5;
 }
 
-.westleb {
+.bottom-contact {
+  width: 100%;
   position: relative;
+}
+
+.bcontact {
   float: left;
-  width: 33%;
+  width: 33.33%;
+  paddint: 10px;
 }
 
-.manchester {
-  position: relative;
-  text-align: center;
-  width: 33%;
+.bottom-contact:after {
+  display: table;
+  clear: both;
 }
 
-.keene {
-  position: relative;
-  float: right;
-  width: 33%
-}
+
