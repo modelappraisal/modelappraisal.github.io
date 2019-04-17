@@ -246,7 +246,7 @@ h4 {
 }
 
 .bottom-bar {
-  position: relative;
+  position: absolute;
   height: auto;
   padding: 10px;
   text-align: center;
