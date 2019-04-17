@@ -246,7 +246,7 @@ h4 {
 }
 
 .bottom-bar {
-  position: absolute;
+  position: relative;
   height: auto;
   padding: 10px;
   text-align: center;
@@ -292,7 +292,7 @@ h4 {
 }
 
 .bottom-contact {
-  position: absolute;
+  position: relative;
   width: 100%;
 }
 
@@ -300,6 +300,7 @@ h4 {
   float: left;
   width: 33.33%;
   padding: 10px;
+  height: auto;
 }
 
 .bconmanch {
