@@ -292,19 +292,36 @@ h4 {
 }
 
 .bottom-contact {
+  position: absolute;
   width: 100%;
 }
 
-.bcontact {
+.bconwestleb {
+  position: absolute;
   float: left;
   width: 33.33%;
   padding: 10px;
 }
 
-.bottom-contact:after {
-  content: "";
-  display: table;
-  clear: both;
+.bconact {
+  position: absolute;
+  float: right;
+  width: 66.66%;
+}
+
+.bconmanch {
+  position: relative;
+  float: left;
+  width: 33.33%
+  padding: 10px;
+}
+
+.bconkeene {
+  position: absolute;
+  float: right;
+  width: 33.33%
+  padding: 10px;
+}
 
 @media screen and (max-width: 600px) {
   .bcontact {
