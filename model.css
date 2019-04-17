@@ -297,34 +297,25 @@ h4 {
 }
 
 .bconwestleb {
-  position: absolute;
   float: left;
   width: 33.33%;
   padding: 10px;
 }
 
 .bconact {
-  position: absolute;
   float: right;
   width: 66.66%;
 }
 
 .bconmanch {
-  position: relative;
   float: left;
   width: 33.33%
   padding: 10px;
 }
 
 .bconkeene {
-  position: absolute;
   float: right;
   width: 33.33%
   padding: 10px;
 }
 
-@media screen and (max-width: 600px) {
-  .bcontact {
-    width: 100%;
-  }
-}
