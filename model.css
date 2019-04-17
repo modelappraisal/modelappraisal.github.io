@@ -302,13 +302,8 @@ h4 {
   padding: 10px;
 }
 
-.bconact {
-  float: right;
-  width: 66.66%;
-}
-
 .bconmanch {
-  float: left;
+  display: inline-block;
   width: 33.33%
   padding: 10px;
 }
