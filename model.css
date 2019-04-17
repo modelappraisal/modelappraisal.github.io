@@ -301,6 +301,11 @@ h4 {
   padding: 10px;
 }
 
+.bottom-contact:after {
+  content: "";
+  display: table;
+  clear: both;
+
 @media screen and (max-width: 600px) {
   .bcontact {
     width: 100%;
