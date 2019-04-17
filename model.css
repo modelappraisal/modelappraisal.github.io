@@ -307,6 +307,11 @@ h4 {
   clear: both;
 }
 
+.bottom-contact:after {
+  display: table;
+  clear: both;
+}
+
 @media screen and (max-width: 600px) {
   .bcontact {
     width: 100%;
