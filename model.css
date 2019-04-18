@@ -316,12 +316,38 @@ h4 {
   padding: 10px;
 }
 
-.bottom-contact a {
+.bconwestleb a {
   color: #000000;
   font-size: 12px;
   text-decoration: none;
 }
 
-.bottom-contact a:hover {
+.bconwestleb a:hover {
   opacity: 0.5;
+}
+
+.bconmanch a {
+  color: #000000;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.bconmanch a:hover {
+  opacity: 0.5;
+}
+.bconkeene a {
+  color: #000000;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.bconkeene a:hover {
+  opacity: 0.5;
+}
+
+h5 {
+  font-family: "Oswald", sans-serif;
+  font-size: 1.3em;
+  text-align: center;
+  font-weight: 400;
 }
