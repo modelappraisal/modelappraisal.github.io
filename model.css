@@ -266,10 +266,11 @@ h4 {
 
 .bottomnav {
   position: relative;
-  display: inline-block;
   font-size: .7em;
   box-sizing: inherit;
   text-align: center;
+  display: flex;
+  justify-content: space-around;
 }
 
 .bottomnav a {
