@@ -347,7 +347,16 @@ h4 {
 
 h5 {
   font-family: "Oswald", sans-serif;
-  font-size: 1.3em;
+  font-size: 0.7em;
   text-align: center;
   font-weight: 400;
+  height: auto;
+}
+
+h6 {
+  text-align: center;
+  margin-top: 0px;
+  margin-botton: 0px;
+  font-family: sans-serif;
+  height: auto;
 }
