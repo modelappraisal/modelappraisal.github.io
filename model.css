@@ -316,3 +316,12 @@ h4 {
   padding: 10px;
 }
 
+.bottom-contact a {
+  color: #000000;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.bottom-contact a:hover {
+  opacity: 0.5;
+}
