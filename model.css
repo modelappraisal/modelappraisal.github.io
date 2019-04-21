@@ -434,8 +434,7 @@ h6 {
 }
 
 .headercontainer .header-text {
-  position: absolute; 
-  margin-top: 50%; 
+  position: absolute;  
   background: rgba(0, 0, 0, 0.25);
   width: 100%;
   height: auto;
