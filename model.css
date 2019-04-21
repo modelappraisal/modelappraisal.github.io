@@ -427,7 +427,18 @@ h6 {
 
 .headercontainer {
   position: relative;
-  background: rgba(0, 0, 0, 0.5);
+  max-width: 40%;
+  margin: 0 auto;
+}
+
+.headercontainer .header-text {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); 
+  background: rgba(0, 0, 0, 0.5); 
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
 }
 
 .image1 {
@@ -438,13 +449,3 @@ h6 {
   height: auto;
   width: 40%;
 }
-
-.header-text {
-  text-align: center;
-  width: 100%;
-  height: auto;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
- }
