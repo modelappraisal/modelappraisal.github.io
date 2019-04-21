@@ -425,7 +425,13 @@ h6 {
   height: auto;
 }
 
-  
+.image-header {
+  position: relative;
+  float: center;
+  margin-top: 100px;
+  height: auto;
+}
+
 .text-header {
   text-align: center;
   position: absolute;
