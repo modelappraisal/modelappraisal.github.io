@@ -431,6 +431,8 @@ h6 {
   margin: 0 auto;
 }
 
+.headercontainer img {vertical-align: middle;}
+
 .headercontainer .header-text {
   position: absolute;
   bottom: 0;
