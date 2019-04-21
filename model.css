@@ -22,7 +22,7 @@ body{
 
 .site-header {
   position: absolute;
-  background-color: transparent;
+  background-color: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5));
   border-bottom: 1px solid transparent;
   2-index: 999;
   top: 0;
