@@ -433,7 +433,6 @@ h6 {
   height: auto;
   display: block;
   text-align: center;
-  padding: 20px;
 }
 
 .headercontainer img {vertical-align: middle;}
@@ -443,8 +442,6 @@ h6 {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: rgba(0, 0, 0, 0.5); 
   color: #f1f1f1;
   width: 100%;
-  padding: 20px;
 }
