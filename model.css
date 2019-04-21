@@ -441,5 +441,8 @@ h6 {
   height: auto;
   padding: 20px;
   text-align: center;
+  font-family: "Oswald";
+  text-transform: uppercase;
+  font-size: 1.7em;
 }
 
