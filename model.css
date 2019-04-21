@@ -85,8 +85,8 @@ body{
 
 .site-header1 {
   position: absolute;
-  background-color: transparent;
-  border-bottom: 1px solid transparent;
+  background-color: rgba(0, 0, 0, 0.25);
+  border-bottom: 1px solid;
   2-index: 999;
   top: 0;
   height: 62px;
@@ -96,7 +96,6 @@ body{
 }
 
 .top-email1 {
-  background-color: transparent;
   background-size: contain;
   display: block;
   float: left;
