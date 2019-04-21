@@ -426,7 +426,11 @@ h6 {
 }
 
 .headercontainer {
+  background-mg: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("barnpic.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   position: relative;
+  overflow: hidden;
   max-width: 40%;
   margin: 0 auto;
   margin-top: 100px;
@@ -434,8 +438,6 @@ h6 {
   display: block;
   text-align: center;
 }
-
-.headercontainer img {vertical-align: middle;}
 
 .headercontainer .header-text {
   position: absolute;
