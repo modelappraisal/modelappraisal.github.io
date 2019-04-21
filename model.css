@@ -24,7 +24,7 @@ body{
   position: absolute;
   background-color: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5));
   border-bottom: 1px solid transparent;
-  2-index: 999;
+  z-index: 999;
   top: 0;
   height: 62px;
   width: 100%;
@@ -441,4 +441,5 @@ h6 {
   color: white;
   height:auto;
   margin-top: 150px;
+  z-index: 2;
  }
