@@ -434,12 +434,12 @@ h6 {
 }
 
 .headercontainer .header-text {
-  position: absolute; /* Position the background text */
-  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
-  background: rgb(0, 0, 0); /* Fallback color */
-  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-  color: #f1f1f1; /* Grey text */
-  width: 100%; /* Full width */
-  padding: 20px; /* Some padding */
+  position: absolute; 
+  margin-top: 50%; 
+  background: rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: auto;
+  padding: 20px;
+  text-align: center;
 }
 
