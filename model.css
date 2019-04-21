@@ -446,5 +446,6 @@ h6 {
   text-transform: uppercase;
   font-size: 1.7em;
   color: white;
+  overflow: hidden;
 }
 
