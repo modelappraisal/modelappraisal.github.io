@@ -50,6 +50,7 @@ body{
   font-size: 12px;
   font-weight: bold;
   float: left;
+  font-family: sans-serif;
 }
 
 .top-email a:hover {
@@ -74,6 +75,7 @@ body{
   padding: 1em .2em;
   font-size: 12px;
   font-weight: bold;
+  font-family: sans-serif;
   text-decoration: none;
   background-color: transparent;
   list-style-type: none;
@@ -111,6 +113,7 @@ body{
   font-size: 12px;
   font-weight: bold;
   float: left;
+  font-family: sans-serif;
 }
 
 .top-email1 a:hover {
@@ -135,6 +138,7 @@ body{
   padding: 1em .2em;
   font-size: 12px;
   font-weight: bold;
+  font-family: sans-serif;
   text-decoration: none;
   background-color: transparent;
   list-style-type: none;
@@ -338,6 +342,7 @@ h4 {
   padding-right: 1em;
   font-size: 12px;
   font-weight: bold;
+  font-family: sans-serif;
   text-decoration: none;
   text-align: center;
   background-color: transparent;
@@ -351,6 +356,7 @@ h4 {
 .bottom-contact {
   width: 100%;
   margin-bottom: 100px;
+  margin-top: 100px;
   display: block;
 }
 
@@ -377,6 +383,7 @@ h4 {
   color: #000000;
   font-size: 12px;
   text-decoration: none;
+  font-family: sans-serif;
 }
 
 .bconwestleb a:hover {
@@ -387,6 +394,7 @@ h4 {
   color: #000000;
   font-size: 12px;
   text-decoration: none;
+  font-family: sans-serif;
 }
 
 .bconmanch a:hover {
@@ -396,6 +404,7 @@ h4 {
   color: #000000;
   font-size: 12px;
   text-decoration: none;
+  font-family: sans-serif;
 }
 
 .bconkeene a:hover {
