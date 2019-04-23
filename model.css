@@ -467,3 +467,12 @@ h7 {
   height: auto;
   width: 10%;
 }
+
+h8 {
+  float: left;
+  height: auto;
+  text-align: top;
+  font-family: serif;
+  font-size: 2em;
+  font-color: #000080;
+}
