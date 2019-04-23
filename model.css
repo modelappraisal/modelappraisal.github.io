@@ -464,5 +464,6 @@ h7 {
 .top-icon {
   opacity: 0.5;
   position: absolute;
-  float: center;
+  margin: auto;
+  height: auto;
 }
