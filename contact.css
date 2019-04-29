@@ -258,6 +258,7 @@ h8 {
   width: 100%;
   display: block;
   height: auto;
+  position: relative;
 }
 
 .rowtext {
