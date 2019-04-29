@@ -74,3 +74,116 @@ body{
   opacity: 0.5;
 }
 
+.footer {
+  height: auto;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+.bottom-bar {
+  height: auto;
+  padding: 10px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 12px;
+  display: block;
+}
+
+.bottom-licenses {
+  position: relative;
+  height: auto;
+  padding: 20px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 15px;
+  opacity: .33;
+  vertical-align: center;
+}
+
+.bottomnav {
+  position: relative;
+  font-size: .7em;
+  box-sizing: inherit;
+  text-align: center;
+  display: inline-block;
+}
+
+.bottomnav a {
+  text-transform: uppercase;
+  position: relative;
+  display: inline-block;
+  color: #000000;
+  letter-spacing: .5px;
+  padding-right: 1em;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: none;
+  text-align: center;
+  background-color: transparent;
+  list-style-type: none;
+}
+
+.bottomnav a:hover {
+  opacity: 0.5;
+}
+
+.bottom-contact {
+  width: 100%;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  display: block;
+}
+
+.bconwestleb {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  display: block;
+}
+
+.bconmanch {
+  display: inline-block;
+  width: 33.33%;
+  padding: 10px;
+}
+
+.bconkeene {
+  float: right;
+  width: 33.33%;
+  padding: 10px;
+}
+
+.bconwestleb a {
+  color: #000000;
+  font-size: 12px;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+.bconwestleb a:hover {
+  opacity: 0.5;
+}
+
+.bconmanch a {
+  color: #000000;
+  font-size: 12px;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+.bconmanch a:hover {
+  opacity: 0.5;
+}
+
+.bconkeene a {
+  color: #000000;
+  font-size: 12px;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+.bconkeene a:hover {
+  opacity: 0.5;
+}
