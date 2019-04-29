@@ -477,3 +477,15 @@ h8 {
   font-size: 2em;
   color: #000080;
 }
+
+.column {
+  float: left;
+}
+
+.left {
+  width: 75%;
+}
+
+.right {
+  width: 25%;
+} 
