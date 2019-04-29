@@ -254,19 +254,22 @@ h8 {
   color: #000080;
 }
 
-.column {
+.row {
   width: 100%;
   display: block;
+  height: auto;
 }
 
 .rowtext {
   float: left;
   width: 75%;
   padding: 200px;
+  height: auto;
 }
 
 .rowcontacts {
   float: right;
   width: 25%;
   padding: 200px;
+  height: auto;
 } 
