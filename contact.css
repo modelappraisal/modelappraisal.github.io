@@ -255,13 +255,18 @@ h8 {
 }
 
 .column {
+  width: 100%;
+  display: block;
+}
+
+.rowtext {
   float: left;
-}
-
-.left {
   width: 75%;
+  padding: 200px;
 }
 
-.right {
+.rowcontacts {
+  float: right;
   width: 25%;
+  padding: 200px;
 } 
