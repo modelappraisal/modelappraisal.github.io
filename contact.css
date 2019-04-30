@@ -20,7 +20,7 @@ body{
   position: absolute;
   background-color: rgba(0, 0, 0, 0.25);
   border-bottom: 1px solid;
-  2-index: 999;
+  z-index: 999;
   top: 0;
   height: 62px;
   width: 100%;
