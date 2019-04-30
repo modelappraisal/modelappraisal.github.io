@@ -288,3 +288,14 @@ h8 {
 center {
   height: auto;
 }
+
+h2 {
+  text-align: center;
+  margin-top: 0px;
+  margin-botton: 0px;
+  margin-left: 33%;
+  margin-right: 33%;
+  font-family: sans-serif;
+  padding: 0px 0px 0px 0px;
+  height: auto;
+}
