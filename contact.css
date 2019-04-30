@@ -14,6 +14,7 @@ body{
 .wrapper {
   height: 100%;
   position: relative;
+  margin: 0;
 }
 
 .site-header1 {
@@ -212,7 +213,6 @@ h6 {
 }
 
 .headercontainer {
-  position: relative;
   max-width: 40%;
   margin: 0 auto;
   margin-top: 100px;
