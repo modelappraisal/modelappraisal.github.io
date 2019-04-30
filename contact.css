@@ -256,23 +256,21 @@ h8 {
 }
 
 .row {
-  width: 100%;
+  width: 97%;
   display: block;
   height: auto;
-  position: relative;
+  padding: 1.5%;
 }
 
 .rowtext {
   float: left;
-  width: 75%;
-  padding: 200px;
+  width: 73.5%;
   height: auto;
 }
 
 .rowcontacts {
   float: right;
-  width: 25%;
-  padding: 200px;
+  width: 23.5%;
   height: auto;
 } 
 
