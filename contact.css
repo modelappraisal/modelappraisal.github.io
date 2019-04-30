@@ -265,12 +265,12 @@ h8 {
 }
 
 .row {
-  width: 94%;
+  width: 100%;
   display: block;
   height: auto;
   padding-left: 3%;
   padding-right: 3%;
-  padding-bottom: 500px;
+  padding-bottom: 180px;
 }
 
 .rowtext {
