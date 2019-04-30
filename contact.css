@@ -11,6 +11,11 @@ body{
   height: 100%;
  }
 
+.wrapper {
+  height: 100%;
+  position: relative;
+}
+
 .site-header1 {
   position: absolute;
   background-color: rgba(0, 0, 0, 0.25);
