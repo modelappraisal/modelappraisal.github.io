@@ -271,21 +271,19 @@ h8 {
   padding-left: 3%;
   padding-right: 3%;
   padding-bottom: 180px;
-  position: relative;
+  overflow: auto;
 }
 
 .rowtext {
   float: left;
   width: 73.5%;
   height: auto;
-  position: relative;
 }
 
 .rowcontacts {
   float: right;
   width: 23.5%;
   height: auto;
-  position: relative;
 } 
 
 center {
