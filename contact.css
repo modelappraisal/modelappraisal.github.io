@@ -300,3 +300,7 @@ h2 {
   padding: 0px 0px 0px 0px;
   height: auto;
 }
+
+h2.clear {
+  clear: both;
+}
