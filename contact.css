@@ -287,6 +287,12 @@ h8 {
   height: auto;
 } 
 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 center {
   height: auto;
 }
