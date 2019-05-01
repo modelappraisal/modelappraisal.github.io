@@ -84,6 +84,7 @@ body{
 }
 
 .footer {
+  clear: both;
   height: auto;
   position: absolute;
   width: 100%;
@@ -301,6 +302,3 @@ h2 {
   height: auto;
 }
 
-footer.clear {
-  clear: both;
-}
